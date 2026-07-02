@@ -5,8 +5,8 @@
 - <b>Standard Operating Procedures (SOP) </b>
   - [2-Step Verification - Google Account](https://github.com/Joseph-Amundsen/StandardOperatingProcedures)
 - <b>Windows Active Directory</b>
-  - [Identity and Access Management](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  - [Group Policy](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Identity and Access Management](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Group Policy](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Static IP Address</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>PowerShell</b>

@@ -4,6 +4,7 @@
 
 - <b>Standard Operating Procedures (SOP) </b>
   - [2-Step Verification - Google Account](https://github.com/Joseph-Amundsen/StandardOperatingProcedures)
+  - [Checking for and Installing Windows Updates](https://github.com/Joseph-Amundsen/InstallWindowsUpdates)
 - <b>Windows Active Directory</b>
   - [Identity and Access Management](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   - [Group Policy](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)

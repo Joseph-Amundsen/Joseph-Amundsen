@@ -7,6 +7,8 @@
   - [Checking for and Installing Windows Updates](https://github.com/Joseph-Amundsen/InstallWindowsUpdates)
 - <b>Static IP Address</b>
   - [Designating a Static IP Address](https://github.com/Joseph-Amundsen/StaticIPAddress/blob/main/README.md)
+- <b>Windows Active Directory </b>
+  -[Installing Active Directory Domain Services and Promoting a Domain Controller](https://github.com/Joseph-Amundsen/StaticIPAddress/blob/main/README.md)
 
 <h2> Certifications</h2>
 

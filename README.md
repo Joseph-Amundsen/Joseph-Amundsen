@@ -8,7 +8,7 @@
 - <b>Static IP Address</b>
   - [Designating a Static IP Address](https://github.com/Joseph-Amundsen/StaticIPAddress/blob/main/README.md)
 - <b>Windows Active Directory</b>
-  - [Installing Active Directory Domain Services and Promoting a Domain Controller](https://github.com/Joseph-Amundsen/StaticIPAddress/blob/main/README.md)
+  - [Installing Active Directory Domain Services and Promoting a Domain Controller](https://github.com/Joseph-Amundsen/ADDS-DomainController)
     
 
 <h2> Certifications</h2>
